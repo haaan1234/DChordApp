@@ -1,0 +1,31 @@
+
+
+body {
+  padding: 0.2em 0.5em;
+  margin: 2em 0;
+  background: #d6ebff;
+  box-shadow: 0px 0px 0px 10px #d6ebff;
+  border: dashed 2px white;
+  
+
+  white-space: pre;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+
+  background-color: rgb(233, 219, 214);
+  font-family: Arial, sans-serif;
+  margin-right: auto;
+  margin-left : auto;
+  width: 140vh;
+  min-height: 80vh;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
