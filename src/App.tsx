@@ -7,9 +7,6 @@ import { FormControl, InputLabel, MenuItem, Select, SelectChangeEvent } from "@m
 
 
 export default function App() {
-
-
-
   //key選択状況を保持
   const [key, setKey] = React.useState(0);
   //keyが選択されたときに処理実行
